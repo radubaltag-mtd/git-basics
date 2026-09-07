@@ -1,1 +1,1 @@
-<Payment feature>
+<New payment feature>
